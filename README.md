@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/fanthom1337-boop/fanthom/releases/latest"><b>Download free</b></a> ·
-  <a href="PRO_BUY_URL"><b>Get Pro</b></a> ·
+  <a href="https://fanthom1337-boop.github.io/fanthom/#pricing"><b>Get Pro</b></a> ·
   <a href="https://fanthom1337-boop.github.io/fanthom/">Website</a> ·
   <a href="https://github.com/fanthom1337-boop/fanthom/issues/new/choose">Report a problem</a>
 </p>
@@ -55,7 +55,7 @@ Not every fan header can be controlled by software. The free version shows exact
 
 ## Fanthom Pro
 
-Buy a license key [here](PRO_BUY_URL), then open Fanthom → **Settings → Fanthom Pro**, paste the key and click **Activate**. To move Pro to another PC, use **Deactivate on this PC** first.
+Buy a license key [here](https://fanthom1337-boop.github.io/fanthom/#pricing), then open Fanthom → **Settings → Fanthom Pro**, paste the key and click **Activate**. To move Pro to another PC, use **Deactivate on this PC** first.
 
 ## Problems or ideas?
 

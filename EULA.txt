@@ -4,6 +4,9 @@ Last updated: [DATE]
 DRAFT – have this reviewed before publishing and fill in the parts in square brackets.
 
 1. Provider
+   [First and last name / company name]
+   [Postal address or business address]
+   Email: fanthom1337@gmail.com
    Sales are handled by [Lemon Squeezy] as reseller and merchant of record.
    Their terms additionally apply to purchase, payment, invoicing and withdrawal.
 
