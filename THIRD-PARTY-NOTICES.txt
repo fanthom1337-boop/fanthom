@@ -1,0 +1,37 @@
+FANTHOM – THIRD-PARTY NOTICES
+=============================
+
+Fanthom is an independent program and is not affiliated with "Fan Control" by
+Rémi Mercier, with NZXT or with any other manufacturer. Manufacturer and product
+names are used only to describe compatible hardware.
+
+Fanthom contains the following open-source components in unmodified form.
+The full license texts are in the "licenses" folder.
+
+LibreHardwareMonitorLib
+  License:     Mozilla Public License 2.0 (licenses/MPL-2.0.txt)
+  Copyright:   LibreHardwareMonitor contributors
+  Source code: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+
+DiskInfoToolkit, RAMSPDToolkit-NDD, BlackSharp.Core
+  License:     Mozilla Public License 2.0 (licenses/MPL-2.0.txt)
+  Copyright:   Florian K. (Blacktempel)
+  Source code: https://www.nuget.org/profiles/Blacktempel
+
+HidSharp
+  License:     Apache License 2.0 (licenses/Apache-2.0.txt)
+  Copyright:   James F. Bellinger
+  Source code: https://www.zer7.com/software/hidsharp
+
+System.IO.Ports, System.Management, Mono.Posix.NETStandard
+  License:     MIT (licenses/MIT.txt)
+  Copyright:   .NET Foundation and Contributors
+  Source code: https://github.com/dotnet/runtime
+
+The source code of the MPL-licensed components is freely available at the
+addresses above.
+
+NOT INCLUDED: PawnIO
+  For motherboard sensors, LibreHardwareMonitor uses the PawnIO driver
+  (GPL 2.0, https://github.com/namazso/PawnIO). It is not shipped with Fanthom.
+  Install it if needed from https://pawnio.eu

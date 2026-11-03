@@ -1,0 +1,73 @@
+FANTHOM – END USER LICENSE AGREEMENT (EULA)
+Last updated: [DATE]
+
+DRAFT – have this reviewed before publishing and fill in the parts in square brackets.
+
+1. Provider
+   [First and last name / company name]
+   [Postal address or business address]
+   Email: [support@...]
+   Sales are handled by [Lemon Squeezy] as reseller and merchant of record.
+   Their terms additionally apply to purchase, payment, invoicing and withdrawal.
+
+2. Subject
+   Fanthom is software for Windows that displays temperatures and controls PC fans.
+   This agreement covers use of the free version ("Free") and the paid version ("Pro").
+
+3. License
+   3.1 You receive a simple, non-transferable, perpetual right to use the software for
+       private and professional purposes.
+   3.2 A Pro license is valid for one person and up to [3] of their own computers.
+   3.3 The software remains the intellectual property of the provider. A purchase does
+       not transfer ownership of the program code.
+
+4. Restrictions
+   Unless expressly permitted by law (in particular sections 69d and 69e of the German
+   Copyright Act, UrhG), you may not
+   a) decompile, disassemble or otherwise reverse engineer the software,
+   b) bypass or remove license checks or protection measures,
+   c) share, sell or publish license keys,
+   d) sell, rent or redistribute the software in whole or in part.
+
+5. Third-party components
+   Fanthom contains open-source components that are subject to their own licenses
+   (see THIRD-PARTY-NOTICES.txt and the "licenses" folder). For those components their
+   licenses take precedence over this agreement.
+
+6. Important notes on hardware
+   6.1 At your request, Fanthom changes the speed of fans and pumps. Speeds that are too
+       low can lead to high temperatures.
+   6.2 Fanthom includes a protection feature (failsafe) that sets all active fans to
+       100 % when an adjustable temperature is exceeded, and hands control back to the
+       BIOS on exit. These features do not replace the hardware's own protection.
+   6.3 You are responsible for your settings (curves, minimum speeds, limits). Check
+       temperatures under load after making changes.
+   6.4 Not all hardware is supported. Whether a fan can be controlled depends on the
+       motherboard, the controller and the drivers.
+
+7. Warranty
+   Statutory warranty rights apply. They remain unaffected for consumers.
+
+8. Liability
+   8.1 The provider is liable without limitation for intent and gross negligence, for
+       injury to life, body or health, under the German Product Liability Act and to the
+       extent of any guarantee given.
+   8.2 In cases of slight negligence the provider is only liable for breach of an
+       essential contractual obligation (cardinal obligation), limited to the damage that
+       is typical for the contract and foreseeable.
+   8.3 Otherwise liability is excluded.
+   8.4 For the free version the provider is only liable for intent and gross negligence
+       (in analogy to section 521 of the German Civil Code, BGB) and under 8.1 sentence 1.
+
+9. Privacy
+   Fanthom collects no usage data and sends no telemetry. Settings and logs are stored
+   only locally next to the program. To activate and check a Pro license, the license key
+   and the computer name are sent to Lemon Squeezy's license server.
+
+10. Final provisions
+   10.1 The law of the Federal Republic of Germany applies, excluding the UN Convention
+        on Contracts for the International Sale of Goods. For consumers this choice of law
+        applies only insofar as it does not deprive them of the protection of mandatory
+        provisions of the country in which they have their habitual residence.
+   10.2 Should any provision be invalid, the remainder of the agreement remains in effect.
+   10.3 In case of doubt, the German version of this agreement prevails.
